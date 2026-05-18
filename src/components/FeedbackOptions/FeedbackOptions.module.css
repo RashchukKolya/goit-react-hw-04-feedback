@@ -1,0 +1,18 @@
+.btnWrap {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button {
+  display: block;
+  width: 30%;
+  padding: 5px;
+  border: none;
+  background-color: darkgray;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
